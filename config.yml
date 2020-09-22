@@ -1,0 +1,6 @@
+private-messages-commands:
+- /msg %player% %message%
+- /tell %player% %message%
+- /r %message%
+- /pm %player% %message%
+- /reply %message%

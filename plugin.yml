@@ -1,0 +1,5 @@
+name: HebrewFixBungeecord
+main: g_o.hefix_team.hebrewfix.HebrewFix
+version: 1.0
+author: [LielAmar, g_o, PvPNick]
+description: HebrewFix for BungeeCord
