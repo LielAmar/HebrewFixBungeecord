@@ -1,6 +1,6 @@
 # HebrewFix Bungeecord
 
-[<img alt="discord" src="https://lielamar.com/cdn/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
+[<img alt="discord" src="https://lielamar.com/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
 <br>
 [HebrewFix on BitBucket](https://bitbucket.org/hebrewfix/hebrewfix-plugin/src/develop/)
 
