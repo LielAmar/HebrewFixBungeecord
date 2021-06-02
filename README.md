@@ -1,8 +1,6 @@
 # HebrewFix Bungeecord
 
-[<img alt="discord" src="https://lielamar.com/plugins/github_discord.png" size=1.5>](https://discord.gg/NzgBrqR)
-<br>
-[HebrewFix on BitBucket](https://bitbucket.org/hebrewfix/hebrewfix-plugin/src/develop/)
+[![Discord](https://img.shields.io/discord/416652224505184276?color=%235865F2&label=Join%20My%20Discord)](https://discord.gg/NzgBrqR)
 
 ## Information
 HebrewFix is a plugin made to fix RTL issues in Minecraft. This version is the Bungeecord version.
